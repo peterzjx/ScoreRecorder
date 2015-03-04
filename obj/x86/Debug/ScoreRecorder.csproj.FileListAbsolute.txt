@@ -1,0 +1,27 @@
+C:\Users\Peter\AppData\Local\Temporary Projects\ScoreRecorder\bin\Debug\ScoreRecorder.exe
+C:\Users\Peter\AppData\Local\Temporary Projects\ScoreRecorder\bin\Debug\ScoreRecorder.pdb
+C:\Users\Peter\AppData\Local\Temporary Projects\ScoreRecorder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\AppData\Local\Temporary Projects\ScoreRecorder\obj\x86\Debug\ScoreRecorder.Form1.resources
+C:\Users\Peter\AppData\Local\Temporary Projects\ScoreRecorder\obj\x86\Debug\ScoreRecorder.Properties.Resources.resources
+C:\Users\Peter\AppData\Local\Temporary Projects\ScoreRecorder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Peter\AppData\Local\Temporary Projects\ScoreRecorder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Peter\AppData\Local\Temporary Projects\ScoreRecorder\obj\x86\Debug\ScoreRecorder.exe
+C:\Users\Peter\AppData\Local\Temporary Projects\ScoreRecorder\obj\x86\Debug\ScoreRecorder.pdb
+E:\Documents\项目\ScoreRecorder\ScoreRecorder\ScoreRecorder\obj\x86\Debug\ScoreRecorder.exe
+E:\Documents\项目\ScoreRecorder\ScoreRecorder\ScoreRecorder\obj\x86\Debug\ScoreRecorder.pdb
+E:\Documents\项目\ScoreRecorder\ScoreRecorder\ScoreRecorder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\项目\ScoreRecorder\ScoreRecorder\ScoreRecorder\obj\x86\Debug\ScoreRecorder.Form1.resources
+E:\Documents\项目\ScoreRecorder\ScoreRecorder\ScoreRecorder\obj\x86\Debug\ScoreRecorder.Properties.Resources.resources
+E:\Documents\项目\ScoreRecorder\ScoreRecorder\ScoreRecorder\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents\项目\ScoreRecorder\ScoreRecorder\ScoreRecorder\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents\项目\ScoreRecorder\ScoreRecorder\ScoreRecorder\bin\Debug\ScoreRecorder.exe
+E:\Documents\项目\ScoreRecorder\ScoreRecorder\ScoreRecorder\bin\Debug\ScoreRecorder.pdb
+E:\Documents\项目\ScoreRecorder\ScoreRecorder - 212\ScoreRecorder\bin\Debug\ScoreRecorder.exe
+E:\Documents\项目\ScoreRecorder\ScoreRecorder - 212\ScoreRecorder\bin\Debug\ScoreRecorder.pdb
+E:\Documents\项目\ScoreRecorder\ScoreRecorder - 212\ScoreRecorder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\项目\ScoreRecorder\ScoreRecorder - 212\ScoreRecorder\obj\x86\Debug\ScoreRecorder.Form1.resources
+E:\Documents\项目\ScoreRecorder\ScoreRecorder - 212\ScoreRecorder\obj\x86\Debug\ScoreRecorder.Properties.Resources.resources
+E:\Documents\项目\ScoreRecorder\ScoreRecorder - 212\ScoreRecorder\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents\项目\ScoreRecorder\ScoreRecorder - 212\ScoreRecorder\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents\项目\ScoreRecorder\ScoreRecorder - 212\ScoreRecorder\obj\x86\Debug\ScoreRecorder.exe
+E:\Documents\项目\ScoreRecorder\ScoreRecorder - 212\ScoreRecorder\obj\x86\Debug\ScoreRecorder.pdb
